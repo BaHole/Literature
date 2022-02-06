@@ -7,6 +7,8 @@
 In the field of genetic variation, the term **variant** is used to refer to a specific region of the genome which differs between two genomes.
 通常我们所说的变异其实是相对于参考基因组来说的。如果没有这个参考基因组，何谈变异。按照这个定义，变异其实说的是两个基因组不同的区域。那么，单核苷酸变异说的不同人之间单个base的变异。可以叫做snv （single-nucleotide variant)），但是还不能被叫snp (single-nucleotide polymorphism) 。
 
+![](https://gitee.com/masterttz/we-chat/raw/master/img/QQ图片20220204175231.jpg)
+
 snv和snp之间区别请移步[“理清SNP、SNV、CNV等一些概念”](基本概念：variant，snp，allele，read，contig，scaffold，N50
 
 ## What are variants, alleles and haplotypes?
